@@ -7,5 +7,4 @@ def main():
 def turn(string):
     print(string.lower())
 
-
 main()
