@@ -5,3 +5,5 @@ if ans == "42" or ans == "forty-two" or ans == "forty two":
 else:
     print("No")
     
+# check50 cs50/problems/2022/python/deep
+# submit50 cs50/problems/2022/python/deep
