@@ -18,3 +18,6 @@ match y:
         ans = "Invalid operator"
 
 print(f"{ans:.1f}")
+
+#check50 cs50/problems/2022/python/interpreter
+#submit50 cs50/problems/2022/python/interpreter
