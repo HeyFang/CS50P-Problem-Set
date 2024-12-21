@@ -24,3 +24,6 @@ match extension:
         print("application/zip")
     case _:
         print("application/octet-stream")
+
+#check50 cs50/problems/2022/python/extensions
+#submit50 cs50/problems/2022/python/extensions
