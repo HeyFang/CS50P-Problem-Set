@@ -10,3 +10,5 @@ fruit = {"apple": 130,
 for i in fruit:
     if item == i:
         print("Calories:", fruit[i])
+# check50 cs50/problems/2022/python/nutrition
+# submit50 cs50/problems/2022/python/nutrition
